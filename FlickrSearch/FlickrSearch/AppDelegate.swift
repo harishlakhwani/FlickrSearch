@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FlickrSearch
 //
-//  Created by Abdul Rahman Khan on 06/10/18.
+//  Created by Harish Lakhwani on 06/10/18.
 //  Copyright © 2018 Harish Lakhwani. All rights reserved.
 //
 
